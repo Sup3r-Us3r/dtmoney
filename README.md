@@ -1,5 +1,9 @@
 <p align="center">
-  <img src=".github/logo.svg" alt="Logo" width="300" />
+  <img src=".github/logo.svg" alt="Logo" width="350" />
+</p>
+
+<p align="center">
+  Manage your money
 </p>
 
 <p align="center">	
@@ -10,30 +14,28 @@
 </p>
 
 <p align="center">
-  :moneybag: Manage your money. Project developed during the chapter 2 from Ignite module | <a href="https://github.com/Rocketseat">@Rocketseat</a>
+  Project developed during chapter 2 of Ignite | <a href="https://github.com/Rocketseat">@Rocketseat</a>
 </p>
 
 <div align="center">
-  <sub> Made with 💖 by
+  <sub> Made with 💜 by
     <a href="https://github.com/Sup3r-Us3r">Mayderson Mello.
   </sub>
 </div>
 
 # 📌 Contents
 
-* [Screenshots](#camera-screenshot) 
+* [Screenshots](#camera-screenshots) 
 * [Technologies](#rocket-technologies) 
 * [How to Run](#computer-how-to-run)
 * [Issues](#bug-issues)
-* [Contributing](#sparkles-issues)
+* [Contributing](#sparkles-contributing)
 * [License](#page_facing_up-license)
 
 # :camera: Screenshots
 <div align="center">
-   <img src="./.github/screen1.png" width="400px">
-   <img src="./.github/screen2.png" width="400px">
-   <img src="./.github/screen3.png" width="400px">
-   <img src="./.github/screen4.png" width="400px">
+   <img src=".github/dtmoney1.png">
+   <img src=".github/dtmoney2.png">
 </div>
 
 # :rocket: Technologies
@@ -66,10 +68,10 @@ Create a <a href="https://github.com/Sup3r-Us3r/dtmoney/issues">new issue report
 
 # :sparkles: Contributing
 
-- Fork this repository;
-- Create a branch with your feature: `git checkout -b my-feature`;
-- Commit your changes: `git commit -m 'feat: My new feature'`;
-- Push to your branch: `git push origin my-feature`.
+- Fork this repository
+- Create a branch with your feature: `git checkout -b my-feature`
+- Commit your changes: `git commit -m 'feat: My new feature'`
+- Push to your branch: `git push origin my-feature`
 
 # :page_facing_up: License
 
